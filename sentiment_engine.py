@@ -11,9 +11,6 @@ from typing import List
 import preprocessor as p
 
 #authentication with twitter developer account 
-#os to get environment variables; it is a dictionary
-
-
 apiKey = "ENTER YOUR KEY"
 apiSecretKey = 'ENTER YOUR SECRET KEY'
 
