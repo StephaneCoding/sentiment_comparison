@@ -1,9 +1,5 @@
 # Sentiment-comparison-engine
 
-## Descriptif
-A partir de deux mots clefs entrés par l'utilisateur, le programme va déterminer lequel d'entre eux est le plus apprécié.
-D'après la définition de twitter, les commentaires sont aussi considérés comme des tweets.
-
 ## Pour commencer
 Il vous faut un compte développeur Twitter pour obtenir l'API Twitter et entrez les clefs ligne 17 et 18 dans le code
 
